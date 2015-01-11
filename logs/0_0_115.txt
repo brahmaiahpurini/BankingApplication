@@ -1,0 +1,4 @@
+Sun Jan 11 04:17:45 EST 2015|null
+Sun Jan 11 04:17:45 EST 2015|SELECT * FROM bank1017.customer WHERE loginName = 'nmarcus' AND pin = 8125;
+Sun Jan 11 04:39:07 EST 2015|null
+Sun Jan 11 04:39:07 EST 2015|SELECT * FROM bank1017.customer WHERE loginName = 'nmarcus' AND pin = 8125;
